@@ -1,2 +1,3 @@
 test hello!
 test commit message editor
+test 2
